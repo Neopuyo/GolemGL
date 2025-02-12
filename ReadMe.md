@@ -7,7 +7,7 @@
         </td>
         <td>
             <div style="margin-left: 20px; width:260px;">
-                <h1><b>HumanGL</b></h1>
+                <h1><b>GolemGL</b></h1>
                 <p> Learning basics of <b>graphic programming</b>, focusing on  <b>hierarchical modeling</b> and <b>matrix stack manipulation</b> using <b>openGL</b> and <b>modern C++</b></p>
             </div>
         </td>
