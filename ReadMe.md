@@ -22,6 +22,11 @@
 To build and run the project using **CMake**.  
 Ensure you have **CMake (>=3.22)** and a C++20 compatible compiler installed.
 
+```c++
+cmake -S . -B build -G "Unix Makefiles"
+cmake --build build --target HumanGL
+```
+
 ### **Camera control keys**
 
 Key | Feature                       | ⚡
